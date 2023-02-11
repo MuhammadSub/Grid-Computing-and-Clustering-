@@ -1,6 +1,6 @@
 # Grid-Computing-and-Clustering-
 Grid Computing and Clustering: 
-    It seems that you have written the methodology for a grid computing project, which aims to improve the efficiency of grid computing by automatically distributing tasks and aggregating results from multiple computers on a local network. The project's objectives include implementing a method to acquire a list of all computers on the local network, gather information about each computer's CPU and memory, execute tasks on worker computers, aggregate results, and return the aggregated results to the main computer for printing.
+    Aims to improve the efficiency of grid computing by automatically distributing tasks and aggregating results from multiple computers on a local network. The project's objectives include implementing a method to acquire a list of all computers on the local network, gather information about each computer's CPU and memory, execute tasks on worker computers, aggregate results, and return the aggregated results to the main computer for printing.
     
 Methodology: The Step-by-Step Guide to Grid Computing:
   In grid computing, several computers are linked together and functions as a single entity to complete a
